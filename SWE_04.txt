@@ -1,11 +1,12 @@
+
 CASE: A retailer selling your personal information to others for profit
+
 
 Ethical Quandry       |   Self interest  |  Client interest | Other interest  |
 --------------------------------------------------------------------------------
 Customer consent      |		X		  X		   X
 Quantity of Data      |                           X		   X
 Level of disclosure   |			          X                X
-
 
 
 
