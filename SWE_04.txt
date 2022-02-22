@@ -1,0 +1,24 @@
+CASE: A retailer selling your personal information to others for profit
+
+Ethical Quandry       |   Self interest  |  Client interest | Other interest  |
+--------------------------------------------------------------------------------
+Customer consent      |		X		  X		   X
+Quantity of Data      |                           X		   X
+Level of disclosure   |			          X                X
+
+
+
+
+The motive behind an ethical dilemma dictates the purpose the action to some extent. It can be to 
+the interest of the self, the client, or other's. If the customer gives consent for their data, the 
+scenario given may interest all parties if the data is to improve the service provided. 
+However, if the customer does not consent, it only benefits the retailer and the other, because it may 
+used in ways that determine personal attributes about a consumer.
+
+A retailer selling your personal information to others for profit is unethical. The immorality of the 
+action can be called into question, if the customer consented to it by signing the terms and conditions. 
+However, the product being personal information, violates an individual's rights. Depending on the quantity 
+of data being sold, the level of disclosure of uniquely identifying information as well as the type of data. 
+On the other hand, the purpose of the action can be to gain a better understanding of their customers, provide 
+current  and  potential  customers  with  personalized  products,  services,  and recommendations, and predict 
+changes and shift in demand. 
